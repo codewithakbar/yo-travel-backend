@@ -127,18 +127,23 @@
                     <div class="col-xl-10 col-lg-10 col-md-6 col-6 d-flex align-items-center justify-content-end">
                         <div class="menu d-inline-block">
                             <div class="mean-push"></div>
-                            <nav id="main-menu" class="main-menu" style="display: none;">
+                            <nav id="main-menu" class="main-menu">
                                 <ul>
-                                    <li class="dropdown active">
+                                    <li class="{% if request.path == '/homepage/' %}active{% endif %} dropdown">
                                         <a href="{% url "home:homepage" %}">Asosiy</a>
                                     </li>
-                                    <li><a href="{% url "home:about" %}">Biz haqimizda</a></li>
-                                    <li class="dropdown">
+                                    <li class="{% if request.path == '/about/' %}active{% endif %}">
+                                        <a href="{% url "home:about" %}">Biz haqimizda</a>
+                                    </li>
+                                    <li class="{% if request.path == '/tur/' %}active{% endif %} dropdown">
                                         <a href="{% url "home:tur" %}">Turlar</a>
                                     </li>
-                                    <li><a href="{% url "home:contact" %}">Bog'lanish</a></li>
+                                    <li class="{% if request.path == '/contact/' %}active{% endif %}">
+                                        <a href="{% url "home:contact" %}">Bog'lanish</a>
+                                    </li>
                                 </ul>
                             </nav>
+                            
                         </div>
                         <!-- Header Button Start !-->
                         <div class="header-btn">
