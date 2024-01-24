@@ -1,0 +1,1151 @@
+[
+    {
+        "model": "admin.logentry",
+        "pk": 1,
+        "fields": {
+            "action_time": "2024-01-24T15:35:41.509Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "1",
+            "object_repr": "Dubayga Maroqli tur",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (1)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (2)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (3)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (4)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (5)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (6)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (7)\"}}, {\"added\": {\"name\": \"Tur Narxiga kirmaydi\", \"object\": \"PriceExludesInlines object (1)\"}}, {\"added\": {\"name\": \"Tur Qoshimcha Surati\", \"object\": \"TurImagesInlines object (1)\"}}, {\"added\": {\"name\": \"Tur Qoshimcha Surati\", \"object\": \"TurImagesInlines object (2)\"}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 2,
+        "fields": {
+            "action_time": "2024-01-24T15:42:33.367Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "2",
+            "object_repr": "Turkiyaga sayohat",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (8)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (9)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (10)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (11)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (12)\"}}, {\"added\": {\"name\": \"Tur Narxiga kiradi\", \"object\": \"PriceIncludesInlines object (13)\"}}, {\"added\": {\"name\": \"Tur Narxiga kirmaydi\", \"object\": \"PriceExludesInlines object (2)\"}}, {\"added\": {\"name\": \"Tur Narxiga kirmaydi\", \"object\": \"PriceExludesInlines object (3)\"}}, {\"added\": {\"name\": \"Tur Narxiga kirmaydi\", \"object\": \"PriceExludesInlines object (4)\"}}, {\"added\": {\"name\": \"Tur Narxiga kirmaydi\", \"object\": \"PriceExludesInlines object (5)\"}}, {\"added\": {\"name\": \"Tur Narxiga kirmaydi\", \"object\": \"PriceExludesInlines object (6)\"}}, {\"added\": {\"name\": \"Tur Narxiga kirmaydi\", \"object\": \"PriceExludesInlines object (7)\"}}, {\"added\": {\"name\": \"Tur Qoshimcha Surati\", \"object\": \"TurImagesInlines object (3)\"}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3,
+        "fields": {
+            "action_time": "2024-01-24T15:42:37.319Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "2",
+            "object_repr": "Turkiyaga sayohat",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"tree_id\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 4,
+        "fields": {
+            "action_time": "2024-01-24T15:42:39.191Z",
+            "user": 1,
+            "content_type": 7,
+            "object_id": "2",
+            "object_repr": "Turkiyaga sayohat",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"tree_id\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 5,
+        "fields": {
+            "action_time": "2024-01-24T17:05:50.730Z",
+            "user": 1,
+            "content_type": 12,
+            "object_id": "5",
+            "object_repr": "Satipov Akbar Feruzbek o'g'li - Dubayga Maroqli tur",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 6,
+        "fields": {
+            "action_time": "2024-01-24T17:05:50.733Z",
+            "user": 1,
+            "content_type": 12,
+            "object_id": "4",
+            "object_repr": "Satipov Akbar Feruzbek o'g'li - Dubayga Maroqli tur",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 7,
+        "fields": {
+            "action_time": "2024-01-24T17:05:50.735Z",
+            "user": 1,
+            "content_type": 12,
+            "object_id": "3",
+            "object_repr": "Satipov Akbar Feruzbek o'g'li - Dubayga Maroqli tur",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 8,
+        "fields": {
+            "action_time": "2024-01-24T17:05:50.738Z",
+            "user": 1,
+            "content_type": 12,
+            "object_id": "2",
+            "object_repr": "Satipov Akbar Feruzbek o'g'li - Dubayga Maroqli tur",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 9,
+        "fields": {
+            "action_time": "2024-01-24T17:05:50.741Z",
+            "user": 1,
+            "content_type": 12,
+            "object_id": "1",
+            "object_repr": "Satipov Akbar Feruzbek o'g'li - Dubayga Maroqli tur",
+            "action_flag": 3,
+            "change_message": ""
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 10,
+        "fields": {
+            "action_time": "2024-01-24T18:04:07.913Z",
+            "user": 1,
+            "content_type": 4,
+            "object_id": "2",
+            "object_repr": "sulaymon",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 11,
+        "fields": {
+            "action_time": "2024-01-24T18:04:39.274Z",
+            "user": 1,
+            "content_type": 4,
+            "object_id": "2",
+            "object_repr": "sulaymon",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Staff status\", \"Superuser status\", \"Last login\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 12,
+        "fields": {
+            "action_time": "2024-01-24T18:04:56.966Z",
+            "user": 1,
+            "content_type": 4,
+            "object_id": "1",
+            "object_repr": "satipoff",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 13,
+        "fields": {
+            "action_time": "2024-01-24T18:09:24.449Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "1",
+            "object_repr": "D:\\PROJECTS\\PYTHON\\GitHub\\yo-travel-backend\\media\\manzillar\\2024\\01\\24\\1-5.jpg",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 14,
+        "fields": {
+            "action_time": "2024-01-24T18:09:27.442Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "2",
+            "object_repr": "D:\\PROJECTS\\PYTHON\\GitHub\\yo-travel-backend\\media\\manzillar\\2024\\01\\24\\4-1.jpg",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 15,
+        "fields": {
+            "action_time": "2024-01-24T18:09:32.691Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "3",
+            "object_repr": "D:\\PROJECTS\\PYTHON\\GitHub\\yo-travel-backend\\media\\manzillar\\2024\\01\\24\\4-1_9yYsG6Q.jpg",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 16,
+        "fields": {
+            "action_time": "2024-01-24T18:09:35.273Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "4",
+            "object_repr": "D:\\PROJECTS\\PYTHON\\GitHub\\yo-travel-backend\\media\\manzillar\\2024\\01\\24\\5-1.jpg",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 17,
+        "fields": {
+            "action_time": "2024-01-24T18:09:37.763Z",
+            "user": 1,
+            "content_type": 11,
+            "object_id": "5",
+            "object_repr": "D:\\PROJECTS\\PYTHON\\GitHub\\yo-travel-backend\\media\\manzillar\\2024\\01\\24\\8-1.jpg",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 1,
+        "fields": {
+            "name": "Can add log entry",
+            "content_type": 1,
+            "codename": "add_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 2,
+        "fields": {
+            "name": "Can change log entry",
+            "content_type": 1,
+            "codename": "change_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 3,
+        "fields": {
+            "name": "Can delete log entry",
+            "content_type": 1,
+            "codename": "delete_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 4,
+        "fields": {
+            "name": "Can view log entry",
+            "content_type": 1,
+            "codename": "view_logentry"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 5,
+        "fields": {
+            "name": "Can add permission",
+            "content_type": 2,
+            "codename": "add_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 6,
+        "fields": {
+            "name": "Can change permission",
+            "content_type": 2,
+            "codename": "change_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 7,
+        "fields": {
+            "name": "Can delete permission",
+            "content_type": 2,
+            "codename": "delete_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 8,
+        "fields": {
+            "name": "Can view permission",
+            "content_type": 2,
+            "codename": "view_permission"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 9,
+        "fields": {
+            "name": "Can add group",
+            "content_type": 3,
+            "codename": "add_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 10,
+        "fields": {
+            "name": "Can change group",
+            "content_type": 3,
+            "codename": "change_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 11,
+        "fields": {
+            "name": "Can delete group",
+            "content_type": 3,
+            "codename": "delete_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 12,
+        "fields": {
+            "name": "Can view group",
+            "content_type": 3,
+            "codename": "view_group"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 13,
+        "fields": {
+            "name": "Can add user",
+            "content_type": 4,
+            "codename": "add_user"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 14,
+        "fields": {
+            "name": "Can change user",
+            "content_type": 4,
+            "codename": "change_user"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 15,
+        "fields": {
+            "name": "Can delete user",
+            "content_type": 4,
+            "codename": "delete_user"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 16,
+        "fields": {
+            "name": "Can view user",
+            "content_type": 4,
+            "codename": "view_user"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 17,
+        "fields": {
+            "name": "Can add content type",
+            "content_type": 5,
+            "codename": "add_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 18,
+        "fields": {
+            "name": "Can change content type",
+            "content_type": 5,
+            "codename": "change_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 19,
+        "fields": {
+            "name": "Can delete content type",
+            "content_type": 5,
+            "codename": "delete_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 20,
+        "fields": {
+            "name": "Can view content type",
+            "content_type": 5,
+            "codename": "view_contenttype"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 21,
+        "fields": {
+            "name": "Can add session",
+            "content_type": 6,
+            "codename": "add_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 22,
+        "fields": {
+            "name": "Can change session",
+            "content_type": 6,
+            "codename": "change_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 23,
+        "fields": {
+            "name": "Can delete session",
+            "content_type": 6,
+            "codename": "delete_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 24,
+        "fields": {
+            "name": "Can view session",
+            "content_type": 6,
+            "codename": "view_session"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 25,
+        "fields": {
+            "name": "Can add tur paketlar",
+            "content_type": 7,
+            "codename": "add_turpaketlar"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 26,
+        "fields": {
+            "name": "Can change tur paketlar",
+            "content_type": 7,
+            "codename": "change_turpaketlar"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 27,
+        "fields": {
+            "name": "Can delete tur paketlar",
+            "content_type": 7,
+            "codename": "delete_turpaketlar"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 28,
+        "fields": {
+            "name": "Can view tur paketlar",
+            "content_type": 7,
+            "codename": "view_turpaketlar"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 29,
+        "fields": {
+            "name": "Can add tur images inlines",
+            "content_type": 8,
+            "codename": "add_turimagesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 30,
+        "fields": {
+            "name": "Can change tur images inlines",
+            "content_type": 8,
+            "codename": "change_turimagesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 31,
+        "fields": {
+            "name": "Can delete tur images inlines",
+            "content_type": 8,
+            "codename": "delete_turimagesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 32,
+        "fields": {
+            "name": "Can view tur images inlines",
+            "content_type": 8,
+            "codename": "view_turimagesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 33,
+        "fields": {
+            "name": "Can add price includes inlines",
+            "content_type": 9,
+            "codename": "add_priceincludesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 34,
+        "fields": {
+            "name": "Can change price includes inlines",
+            "content_type": 9,
+            "codename": "change_priceincludesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 35,
+        "fields": {
+            "name": "Can delete price includes inlines",
+            "content_type": 9,
+            "codename": "delete_priceincludesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 36,
+        "fields": {
+            "name": "Can view price includes inlines",
+            "content_type": 9,
+            "codename": "view_priceincludesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 37,
+        "fields": {
+            "name": "Can add price exludes inlines",
+            "content_type": 10,
+            "codename": "add_priceexludesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 38,
+        "fields": {
+            "name": "Can change price exludes inlines",
+            "content_type": 10,
+            "codename": "change_priceexludesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 39,
+        "fields": {
+            "name": "Can delete price exludes inlines",
+            "content_type": 10,
+            "codename": "delete_priceexludesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 40,
+        "fields": {
+            "name": "Can view price exludes inlines",
+            "content_type": 10,
+            "codename": "view_priceexludesinlines"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 41,
+        "fields": {
+            "name": "Can add manzillar",
+            "content_type": 11,
+            "codename": "add_manzillar"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 42,
+        "fields": {
+            "name": "Can change manzillar",
+            "content_type": 11,
+            "codename": "change_manzillar"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 43,
+        "fields": {
+            "name": "Can delete manzillar",
+            "content_type": 11,
+            "codename": "delete_manzillar"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 44,
+        "fields": {
+            "name": "Can view manzillar",
+            "content_type": 11,
+            "codename": "view_manzillar"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 45,
+        "fields": {
+            "name": "Can add Booking",
+            "content_type": 12,
+            "codename": "add_booking"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 46,
+        "fields": {
+            "name": "Can change Booking",
+            "content_type": 12,
+            "codename": "change_booking"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 47,
+        "fields": {
+            "name": "Can delete Booking",
+            "content_type": 12,
+            "codename": "delete_booking"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 48,
+        "fields": {
+            "name": "Can view Booking",
+            "content_type": 12,
+            "codename": "view_booking"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 49,
+        "fields": {
+            "name": "Can add Aloqaga Chiqqan Foydalanuvchi",
+            "content_type": 13,
+            "codename": "add_contact"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 50,
+        "fields": {
+            "name": "Can change Aloqaga Chiqqan Foydalanuvchi",
+            "content_type": 13,
+            "codename": "change_contact"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 51,
+        "fields": {
+            "name": "Can delete Aloqaga Chiqqan Foydalanuvchi",
+            "content_type": 13,
+            "codename": "delete_contact"
+        }
+    },
+    {
+        "model": "auth.permission",
+        "pk": 52,
+        "fields": {
+            "name": "Can view Aloqaga Chiqqan Foydalanuvchi",
+            "content_type": 13,
+            "codename": "view_contact"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$6D7Q0kPoYi0K0CuFO1VmPV$ebkojd7njR8IHVQjwZqH6atjMGUhNTBJLkRKWBXGjjs=",
+            "last_login": "2024-01-24T14:54:44Z",
+            "is_superuser": true,
+            "username": "satipoff",
+            "first_name": "Akbar",
+            "last_name": "Satipov",
+            "email": "satipof@gmail.com",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2024-01-24T14:54:06Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+            "password": "pbkdf2_sha256$600000$K1pjsPRz1JJBoOuZ8T3YpB$Ly+9Xbo6tiQCyswAHw+mKFQayweWX3ghLkepqimXFR4=",
+            "last_login": "2024-01-24T18:04:37Z",
+            "is_superuser": true,
+            "username": "sulaymon",
+            "first_name": "Sulaymon",
+            "last_name": "Rustamov",
+            "email": "",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2024-01-24T18:04:07Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 1,
+        "fields": {
+            "app_label": "admin",
+            "model": "logentry"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 2,
+        "fields": {
+            "app_label": "auth",
+            "model": "permission"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 3,
+        "fields": {
+            "app_label": "auth",
+            "model": "group"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 4,
+        "fields": {
+            "app_label": "auth",
+            "model": "user"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 5,
+        "fields": {
+            "app_label": "contenttypes",
+            "model": "contenttype"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 6,
+        "fields": {
+            "app_label": "sessions",
+            "model": "session"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 7,
+        "fields": {
+            "app_label": "home",
+            "model": "turpaketlar"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 8,
+        "fields": {
+            "app_label": "home",
+            "model": "turimagesinlines"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 9,
+        "fields": {
+            "app_label": "home",
+            "model": "priceincludesinlines"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 10,
+        "fields": {
+            "app_label": "home",
+            "model": "priceexludesinlines"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 11,
+        "fields": {
+            "app_label": "home",
+            "model": "manzillar"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 12,
+        "fields": {
+            "app_label": "home",
+            "model": "booking"
+        }
+    },
+    {
+        "model": "contenttypes.contenttype",
+        "pk": 13,
+        "fields": {
+            "app_label": "home",
+            "model": "contact"
+        }
+    },
+    {
+        "model": "sessions.session",
+        "pk": "42ovjbzhpaxptjmskgw8isc54pllryw5",
+        "fields": {
+            "session_data": ".eJxVjssOgyAURP-FdWMUQbHL7vsN5AJXxReGq7WP9N9bExftds6ZybyYhnVp9UoYtXfszDJ2-s0M2B6nHbgOpiYkNkxL9CbZleSglFyDw-FyuH8DLVD7bRdZZlKsClOXEkBZy6UpMeco0DmOSuZCiDRDk1aqynkuVAGVUhZAyrQu9ld1iKOm1YyeyIeJtODh1plnO8N9XrqR-mZTnqwU8zDExybZWb4_0NZL_A:1rShS9:RiE89jh3NDHnPPFnhLi4QASpu2X0HCQ-wzZOxZrt54A",
+            "expire_date": "2024-02-07T17:54:21.701Z"
+        }
+    },
+    {
+        "model": "home.manzillar",
+        "pk": 1,
+        "fields": {
+            "title": null,
+            "image": "manzillar/2024/01/24/1-5.jpg",
+            "slug": null,
+            "parent": null,
+            "lft": 1,
+            "rght": 2,
+            "tree_id": 1,
+            "level": 0
+        }
+    },
+    {
+        "model": "home.manzillar",
+        "pk": 2,
+        "fields": {
+            "title": null,
+            "image": "manzillar/2024/01/24/4-1.jpg",
+            "slug": null,
+            "parent": null,
+            "lft": 1,
+            "rght": 2,
+            "tree_id": 2,
+            "level": 0
+        }
+    },
+    {
+        "model": "home.manzillar",
+        "pk": 3,
+        "fields": {
+            "title": null,
+            "image": "manzillar/2024/01/24/4-1_9yYsG6Q.jpg",
+            "slug": null,
+            "parent": null,
+            "lft": 1,
+            "rght": 2,
+            "tree_id": 3,
+            "level": 0
+        }
+    },
+    {
+        "model": "home.manzillar",
+        "pk": 4,
+        "fields": {
+            "title": null,
+            "image": "manzillar/2024/01/24/5-1.jpg",
+            "slug": null,
+            "parent": null,
+            "lft": 1,
+            "rght": 2,
+            "tree_id": 4,
+            "level": 0
+        }
+    },
+    {
+        "model": "home.manzillar",
+        "pk": 5,
+        "fields": {
+            "title": null,
+            "image": "manzillar/2024/01/24/8-1.jpg",
+            "slug": null,
+            "parent": null,
+            "lft": 1,
+            "rght": 2,
+            "tree_id": 5,
+            "level": 0
+        }
+    },
+    {
+        "model": "home.turpaketlar",
+        "pk": 1,
+        "fields": {
+            "title": "Dubayga Maroqli tur",
+            "image": "tur_paket/2024/01/24/4-1.jpg",
+            "price": "4700000",
+            "location": "Dubai - United Arab Emirates",
+            "kuni": 7,
+            "desc": "<p>Bepoyon cho&rsquo;l va moviy dengiz bo&rsquo;yida barpo etilgan bu betakror shahar o&rsquo;zining osmon&rsquo;opar binolari, ulkan savdo markazlari, hashamatli hotellari va ajoyib ko&rsquo;ngil ochar mashg&rsquo;ulotlari bilan sayyohlar uchun dunyoning eng jozibali shaharlaridan biriga aylandi. 90 foiz aholisi chet elliklar bo&rsquo;lgan Dubayda dunyoning istalgan oshxonasini topasiz. Shahar hayotidan biroz pauza olish uchun uzoqqa bormaysiz. Bir necha yuz kmga cho&rsquo;zilgan Dubay sohillarida go&rsquo;zal plyajlar deyarli yil bo&rsquo;yi siz uchun ochiqdir.</p>\r\n\r\n<p><strong>VIZA</strong></p>\r\n\r\n<p>O&rsquo;zbekiston fuqarolari Birlashgan Arab Amirliklariga, shu jumladan, Dubayga borish uchun viza olishlari shart. BAAga viza olish uchun arizani onlayn topshiringiz mumkin. Viza qanday qilib oson va mustaqil olish mumkinligi haqida web-sahifamizda batafsil qo&rsquo;llanma ham tayyorlaganmiz.</p>",
+            "slug": "dubayga-maroqli-tur",
+            "parent": null,
+            "lft": 1,
+            "rght": 2,
+            "tree_id": 1,
+            "level": 0
+        }
+    },
+    {
+        "model": "home.turpaketlar",
+        "pk": 2,
+        "fields": {
+            "title": "Turkiyaga sayohat",
+            "image": "tur_paket/2024/01/24/4-1_G8tkWzC.jpg",
+            "price": "9600000",
+            "location": "İstanbul, Turkey",
+            "kuni": 7,
+            "desc": "<p>Go&rsquo;zal plyajlari&nbsp;bilan sayyohlarni o&rsquo;ziga jalb qiluvchi Turkiyaning mashhur shahri. Yanvar va fevralni hisobga olmaganda,&nbsp;yilning istalgan payti&nbsp;dengizda cho&rsquo;milish mumkinligi&nbsp;Antaliyani&nbsp;sayyohlar uchun dunyodagi eng jozibador shaharlar qatoriga qo&rsquo;shgan. Lekin turistlarni bu yerga yetaklovchi faqat dengiz emas.</p>\r\n\r\n<p>Ta&rsquo;tilingizni har tomonlama maroqli o&rsquo;tkazish uchun mazali street foodlar, qaynoq tungi hayot, diqqatga sazovor tarixiy obidalar, go&rsquo;zal tabiat va o&rsquo;zgacha dizaynga ega qishloqlar va eng asosiysi, yashash xarajatlarining barcha uchun cho&rsquo;ntakbopligi sizni bu yerga yana va yana qaytishga undaydi.</p>",
+            "slug": "turkiyaga-sayohat",
+            "parent": null,
+            "lft": 1,
+            "rght": 2,
+            "tree_id": 2,
+            "level": 0
+        }
+    },
+    {
+        "model": "home.booking",
+        "pk": 6,
+        "fields": {
+            "full_name": "Satipov Akbar Feruzbek o'g'li",
+            "email": "satpoff@icloud.com",
+            "phone": "+99335646404",
+            "date": "2024-01-26",
+            "tour": "Dubayga Maroqli tur"
+        }
+    },
+    {
+        "model": "home.contact",
+        "pk": 1,
+        "fields": {
+            "full_name": "Satipov Akbar Feruzbek o'g'li",
+            "email": "satpoff@icloud.com",
+            "phone": "+99335646404",
+            "mavzu": "Sex",
+            "comment": "aslkdf lksad;lkf jal;skjf ;lsadjf lksdjf lksjf ;lksj f;lksal; ks fas f"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 1,
+        "fields": {
+            "tur": 1,
+            "title": "4* li mehmonxonada 7 kecha istiqomat qilish"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 2,
+        "fields": {
+            "tur": 1,
+            "title": "Aeroport – mehmonxona – aeroport individual transferi"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 3,
+        "fields": {
+            "tur": 1,
+            "title": "Viza"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 4,
+        "fields": {
+            "tur": 1,
+            "title": "Sug‘urta"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 5,
+        "fields": {
+            "tur": 1,
+            "title": "Kechki ovqat bilan safari ekskursiya"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 6,
+        "fields": {
+            "tur": 1,
+            "title": "Dubay bo‘ylab umumlashtiruvchi ekskursiya"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 7,
+        "fields": {
+            "tur": 1,
+            "title": "Fors ko‘rfazi bo‘ylab kechki ovqatni o‘z ichiga oluvchi sayr"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 8,
+        "fields": {
+            "tur": 2,
+            "title": "Mehmonxonada 6 kecha"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 9,
+        "fields": {
+            "tur": 2,
+            "title": "6x Nonushta, 1x Tushlik, 4x Kechki ovqat"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 10,
+        "fields": {
+            "tur": 2,
+            "title": "Bosfor ko'rfazi bo'ylab harakatlanadigan kemada kechki ovqat"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 11,
+        "fields": {
+            "tur": 2,
+            "title": "Transferlar"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 12,
+        "fields": {
+            "tur": 2,
+            "title": "Tarixiy obidalarga kirish chiptalari"
+        }
+    },
+    {
+        "model": "home.priceincludesinlines",
+        "pk": 13,
+        "fields": {
+            "tur": 2,
+            "title": "O'zbek tilida yo'lboshlovchi"
+        }
+    },
+    {
+        "model": "home.priceexludesinlines",
+        "pk": 1,
+        "fields": {
+            "tur": 1,
+            "title": "Shaxsiy xarajatlar"
+        }
+    },
+    {
+        "model": "home.priceexludesinlines",
+        "pk": 2,
+        "fields": {
+            "tur": 2,
+            "title": "Sayohat programmasida ko'rsatilmagan barcha xizmatlar"
+        }
+    },
+    {
+        "model": "home.priceexludesinlines",
+        "pk": 3,
+        "fields": {
+            "tur": 2,
+            "title": "Sayohat programmasida ko'rsatilmagan barcha ovqatlanishlar"
+        }
+    },
+    {
+        "model": "home.priceexludesinlines",
+        "pk": 4,
+        "fields": {
+            "tur": 2,
+            "title": "Spirtli ichimliklar"
+        }
+    },
+    {
+        "model": "home.priceexludesinlines",
+        "pk": 5,
+        "fields": {
+            "tur": 2,
+            "title": "Xalqaro uchoq chiptalari (chiptalar biz orqali sotib olinishi mumkin)"
+        }
+    },
+    {
+        "model": "home.priceexludesinlines",
+        "pk": 6,
+        "fields": {
+            "tur": 2,
+            "title": "Sug'urtalarning har qanday turi"
+        }
+    },
+    {
+        "model": "home.priceexludesinlines",
+        "pk": 7,
+        "fields": {
+            "tur": 2,
+            "title": "Shaxsiy xarid xarajatlari"
+        }
+    },
+    {
+        "model": "home.turimagesinlines",
+        "pk": 1,
+        "fields": {
+            "product": 1,
+            "image": "tur_images/2024/01/24/5-1.jpg"
+        }
+    },
+    {
+        "model": "home.turimagesinlines",
+        "pk": 2,
+        "fields": {
+            "product": 1,
+            "image": "tur_images/2024/01/24/8-1.jpg"
+        }
+    },
+    {
+        "model": "home.turimagesinlines",
+        "pk": 3,
+        "fields": {
+            "product": 2,
+            "image": "tur_images/2024/01/24/1-5.jpg"
+        }
+    }
+]
