@@ -8911,9 +8911,8 @@ body.admin-bar .header-menu-area.sticky_menu {
 }
 
 .single-post-item .list-item-wrapper li:before {
-    content: "\f00c";
+    content: "\f002";
     font-family: "Font Awesome 6 Pro";
-    color: #ffffff;
     width: 18px;
     height: 18px;
     flex-shrink: 0;
