@@ -1,0 +1,136 @@
+.Header_Menu {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center; 
+    flex-direction: column; 
+    position: relative;
+    --background-dark1: #0c1b33;
+    --background-fixed: #041126;
+    --color-dark1: #ffffff;
+    --color-dark2: #c7cdda;
+    --color-dark3: rgba(255, 255, 255, 0.6);
+}
+
+
+.said-nav {
+    max-width: 1340px; 
+    min-width: 1300px;
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    position: absolute; 
+}
+
+.said-nav_left {
+    display: flex;
+    align-items: center;
+}
+
+.said-nav_left ul {
+    display: flex;
+    gap: 20px; 
+}
+
+.said-nav_left ul li a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.507);
+    font-size: 14px;
+}
+
+.said-nav_left ul li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.said-nav_right {
+    display: flex;
+    align-items: center;
+}
+
+.said-nav_right ul {
+    display: flex;
+    gap: 20px;
+}
+
+.said-nav_right ul li a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.507);
+    font-size: 14px;
+}
+
+.said-nav_right ul li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.muhakot {
+    width: 100%; 
+    margin: 10px auto;
+    padding: 0;
+}
+
+.location-card.style-2 {
+    border: 1px solid #E7E7E7;
+    overflow: hidden;
+    box-shadow: none;
+    transition: all 0.5s ease-out;
+    background-color:#06152b ;
+}
+.location-card.style-2 .content-wrapper .content-inner {
+    opacity: 1;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    padding: 0px;
+    gap: 3px;
+    background-color: #06152b ;
+}
+
+.location-card.style-2 .content-wrapper .content-inner .content-title a {
+    font-size: 28px;
+    line-height: 130%;
+    letter-spacing: -0.56px;
+    color: white;
+    text-decoration: none;
+}
+
+
+.location-card.style-2 .content-wrapper .content-inner .time-zone .time-zone-inner .title {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: #ffff;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 170%;
+    margin: 0px;
+    cursor: default;
+}
+
+.content1 {
+    font-size: 22px;
+    color: white;
+}
+
+.color1 {
+    color: var(--color-dark1);
+}
+
+@media screen and (max-width: 768px ) {
+    .said-nav_right {
+        display: none;
+    }
+    .li1 {
+        display: none;
+    }
+    .phone {
+        transform: translateX(480px);
+    }
+    .header-menu-area .logo .sticky-logo img {
+        width: 150px;
+    }
+    .header-area.style-1 .header-menu-area {
+        height: 80px;
+    }
+}

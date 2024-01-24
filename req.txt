@@ -1,0 +1,11 @@
+django==4.2.1
+pillow
+django-translation-manager
+django-ckeditor
+django-modeltranslation
+django-mptt
+whitenoise
+python-docx
+djangorestframework
+django-cors-headers
+django-jazzmin
