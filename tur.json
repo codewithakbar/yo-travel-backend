@@ -1,0 +1,38 @@
+[
+    {
+        "model": "home.turpaketlar",
+        "pk": 1,
+        "fields": {
+            "title": "Dubayga Maroqli tur",
+            "image": "tur_paket/2024/01/24/4-1.jpg",
+            "price": "4700000",
+            "location": "Dubai - United Arab Emirates",
+            "kuni": 7,
+            "desc": "<p>Bepoyon cho&rsquo;l va moviy dengiz bo&rsquo;yida barpo etilgan bu betakror shahar o&rsquo;zining osmon&rsquo;opar binolari, ulkan savdo markazlari, hashamatli hotellari va ajoyib ko&rsquo;ngil ochar mashg&rsquo;ulotlari bilan sayyohlar uchun dunyoning eng jozibali shaharlaridan biriga aylandi. 90 foiz aholisi chet elliklar bo&rsquo;lgan Dubayda dunyoning istalgan oshxonasini topasiz. Shahar hayotidan biroz pauza olish uchun uzoqqa bormaysiz. Bir necha yuz kmga cho&rsquo;zilgan Dubay sohillarida go&rsquo;zal plyajlar deyarli yil bo&rsquo;yi siz uchun ochiqdir.</p>\r\n\r\n<p><strong>VIZA</strong></p>\r\n\r\n<p>O&rsquo;zbekiston fuqarolari Birlashgan Arab Amirliklariga, shu jumladan, Dubayga borish uchun viza olishlari shart. BAAga viza olish uchun arizani onlayn topshiringiz mumkin. Viza qanday qilib oson va mustaqil olish mumkinligi haqida web-sahifamizda batafsil qo&rsquo;llanma ham tayyorlaganmiz.</p>",
+            "slug": "dubayga-maroqli-tur",
+            "parent": null,
+            "lft": 1,
+            "rght": 2,
+            "tree_id": 1,
+            "level": 0
+        }
+    },
+    {
+        "model": "home.turpaketlar",
+        "pk": 2,
+        "fields": {
+            "title": "Turkiyaga sayohat",
+            "image": "tur_paket/2024/01/24/4-1_G8tkWzC.jpg",
+            "price": "9600000",
+            "location": "İstanbul, Turkey",
+            "kuni": 7,
+            "desc": "<p>Go&rsquo;zal plyajlari&nbsp;bilan sayyohlarni o&rsquo;ziga jalb qiluvchi Turkiyaning mashhur shahri. Yanvar va fevralni hisobga olmaganda,&nbsp;yilning istalgan payti&nbsp;dengizda cho&rsquo;milish mumkinligi&nbsp;Antaliyani&nbsp;sayyohlar uchun dunyodagi eng jozibador shaharlar qatoriga qo&rsquo;shgan. Lekin turistlarni bu yerga yetaklovchi faqat dengiz emas.</p>\r\n\r\n<p>Ta&rsquo;tilingizni har tomonlama maroqli o&rsquo;tkazish uchun mazali street foodlar, qaynoq tungi hayot, diqqatga sazovor tarixiy obidalar, go&rsquo;zal tabiat va o&rsquo;zgacha dizaynga ega qishloqlar va eng asosiysi, yashash xarajatlarining barcha uchun cho&rsquo;ntakbopligi sizni bu yerga yana va yana qaytishga undaydi.</p>",
+            "slug": "turkiyaga-sayohat",
+            "parent": null,
+            "lft": 1,
+            "rght": 2,
+            "tree_id": 2,
+            "level": 0
+        }
+    }
+]
